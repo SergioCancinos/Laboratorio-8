@@ -1,6 +1,13 @@
 package Lab8;
 /*
-
+	Sergio Cancinos, 	13062
+	Angel Basegoda, 	13256
+	Augusto Cardenas, 	13136
+	
+	WordTypeCounter.java
+		Es el main del programa y se encarga de leer y contar el tipo de palabras que contiene el texto.
+		Ademas se encarga de implementar la estructura que el usuario ingresa, ya SimpleSet, RedBlackTree,
+		SplayTree, HashTable o TreeMap.
 */
 import java.io.*;
 
